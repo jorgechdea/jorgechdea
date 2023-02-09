@@ -8,6 +8,8 @@
 ### - Redux :atom:
 ### - PostreSQL :elephant:
 ### - Node.Js :desktop_computer:
+### - Firebase 🔥
+### - MongoDB :leaves:
 #
 ##  :rotating_light:I'm looking for the oportunity to get my first job as a developer where i can apply my knowledge and improve my skills while doing my best with a company that can use my skills for mutual benefits.:facepunch:
 
