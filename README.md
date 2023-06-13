@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 
-## I'm Jorge, a full stack developer from Mexico with exprience in:
+## I'm Jorge, a full stack developer from Mexico with experience in:
 
 ### - React :atom_symbol:
 ### - React Native :iphone:
